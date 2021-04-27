@@ -1,0 +1,6 @@
+machine api.heroku.com
+  login an@ucsb.edu
+  password 2458c99c-bbdb-48f0-94ea-8b50394e31b4
+machine git.heroku.com
+  login an@ucsb.edu
+  password 2458c99c-bbdb-48f0-94ea-8b50394e31b4
